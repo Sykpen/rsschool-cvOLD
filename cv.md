@@ -14,3 +14,6 @@ function openWin() {
         modal.style.top = "50%";
 }
 ```
+6. Experience : I had a lot of practice during my programming courses and universaty studies. Successfully defended my project of developing a site.   
+7. Education :  Certificate of successful completion of a course in HTML, CSS and basics of JavaScript in Educationak center of High-Tech Park.(100 academic hours) Certificate of attendence of a course on development of Web-applications in JavaScript in Educationak center of High-Tech Park.(116 academic hours)
+8. English : I practised my English in the US during my summer vacations. I watch videos and podcasts in English regularly. My level is intermediate B1+ (according to CERF).
