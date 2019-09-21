@@ -1,0 +1,18 @@
+body{
+	font-size: 20px;
+}
+img{
+	height: 140px;
+	width: 190px;
+	position:absolute;
+	left: 55%;
+	top:20%;
+
+}
+.wrapper{
+width: 1024px;
+margin:0 auto;
+}
+.bold-things{
+	font-weight:  bold;
+}
